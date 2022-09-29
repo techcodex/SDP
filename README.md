@@ -5,9 +5,9 @@
 | First Name   | Last Name    | Matriculation No. | Email        | Role         |
 | ------------ | ------------ | ----------------- | ------------ | ------------ |
 | Muhammad     | Sohaib       | 1417472           | muhammad.sohaib@informatik.hs-fulda.de      | Team Lead    |
-| Deepak | Heman Das |   1414244    |  email  | Group Member |
+| Deepak | Heman Das |   1414244    |  deepak.heman-das@informatik.hs-fulda.de  | Group Member |
 | Sagar | Dhaware | 1413164      | sagar.dhaware04@gmail.com | Group Member |
-| Content Cell | Content Cell | Content Cell      | daniyal.inayatullah@informatik.hs-fulda.de | Group Member |
+| Daniyal  |  Inayatullah | 1415618   | daniyal.inayatullah@informatik.hs-fulda.de | Group Member |
 
 # Conix Pass (CNX)
 
