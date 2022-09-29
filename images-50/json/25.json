@@ -1,0 +1,47 @@
+{
+  "name": "Conix #25",
+  "description": "A token to rule them all and control market accordingly.",
+  "image": "ipfs://QmWa9K4FSM1NwDspyhkhYY6QtMKZm2sJofHh9wz9mGi4A7/25.png",
+  "dna": "70bfb7a3204eb5fe06c105e766d0ecb830b84c43",
+  "edition": 25,
+  "date": 1645714820222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "skin"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "mask pinkish"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "outline"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "eyewear"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "hat blank"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
