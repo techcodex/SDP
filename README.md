@@ -88,4 +88,4 @@ This how DApp looks like when smart contract is paused.
 
 
 
-<center><sub><sup>A university project by students of Hochschule Fulda </sup></sub></center>
+A university project by students of Hochschule Fulda
