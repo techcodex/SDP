@@ -85,3 +85,7 @@ This how DApp looks like when smart contract is paused.
 
 - Etherscan API key _(Used for the automated contract verificiation, as well as retrieving the current values for gas cost estimation)_
 - Truffle Dashboard to perform operations on real blockchain.
+
+
+
+<center><sub><sup>A university project by students of Hochschule Fulda </sup></sub></center>
